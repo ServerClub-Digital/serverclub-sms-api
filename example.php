@@ -26,11 +26,11 @@ use ServerClubSMS\ServerClubSMSAPI;
 $api_key = 'YWRtaW46YWRtaW4ucGFzc3dvcmQ=';
 
 
-// Step 3: Change the from number below. It can be a valid phone number or a String
-$from = '8801721000000';
+// Step 3: Change the from Sender ID below. 
+$from = 'Test';
 
 // Step 4: the number we are sending to - Any phone number
-$destination = '8801810000000';
+$destination = '94771234567';
 
 // Step 5: Replace your Install URL like https://sms.serverclub.digital/sms/api with https://sms.serverclub.digital/
 // <sms/api> is mandatory.
