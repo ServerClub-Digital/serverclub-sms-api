@@ -36,18 +36,18 @@ use ServerClubSMS\ServerClubSMSAPI;
 ### Step 2:
 set your API_KEY from `https://sms.serverclub.digital/sms/api` (your application install url)
 ```php
-$api_key = 'YWRtaW46YWRtaW4ucGFzc3dvcmQ=';
+$api_key = 'YWRtaW46YWRtaW4ucGFFDzc3dvcmQ=';
 ```
 ### Step 3:
-Change the from number below. It can be a valid phone number or a String
+Change the from Sender ID below.
 ```php
-$from = '8801721000000';
+$from = 'Test';
 ```
 
 ### Step 4:
 the number we are sending to - Any phone number
 ```php
-$destination = '8801810000000';
+$destination = '94771234567';
 ```
 You have to must include Country code at beginning of the phone number.  
 
