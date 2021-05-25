@@ -1,6 +1,6 @@
 {
   "name": "serverclub/serverclub-sms-api",
-  "description": "ServerClub SMS API is build for Ultimate SMS - Bulk SMS Application For Marketing",
+  "description": "The ServerClub SMS PHP SDK makes it easy to interact with the SMS API from your PHP application.",
   "type": "library",
   "license": "MIT",
   "version": "2.3.0",

@@ -3,7 +3,7 @@
 
 # ServerClub SMS API
 
-ServerClub SMS API is build for ServerClub SMS - Bulk SMS Application For Marketing
+The ServerClub SMS PHP SDK makes it easy to interact with the SMS API from your PHP application.
 
 
 
