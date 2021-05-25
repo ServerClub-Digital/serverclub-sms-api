@@ -10,7 +10,7 @@ ServerClub SMS API is build for ServerClub SMS - Bulk SMS Application For Market
 ### Installing
 Via Composer
 ```
-composer require serverclubsms/serverclub-sms-api 
+composer require serverclub/serverclub-sms-api
 ```
 
 And Via Bash
